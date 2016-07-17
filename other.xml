@@ -115,4 +115,7 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="E:/Program Files/node/node.exe" version="0.12.0" last-modified="1423274898000" />
+  </component>
 </application>
