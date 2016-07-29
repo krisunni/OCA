@@ -47,6 +47,11 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="E:/Program Files/node/node.exe">
+      <version-cache version="0.12.0" last-modified="1423274898000" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="E:/Program Files/node/node.exe" version="0.12.0" last-modified="1423274898000" />
   </component>
